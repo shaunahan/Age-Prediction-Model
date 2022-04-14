@@ -6,7 +6,7 @@ One such scenario is the task of predicting how long as a person been in the wor
 
 Given the fact that we deal with data in the order of hundreds of gigabytes, we try to offload as many of the tasks as possible to be performed within the database itself...wherein comes into play the importance of being extremely comfortable with data engineering concepts along with that of data science for this role.
 
-This assignment will try to test your proficiency in both data modeling and engineering with the task of trying to predict the age of a user with the given data. You are free to use any python package of your choice. Please note that there is no one correct answer to this problem. You will be judged on the ingenuity and clarity of your thought process. It is highly recommended that you comment your code to communicate why you are doing something in the way you are doing it.
+This assignment will try to test your proficiency in both data modeling and engineering with the task of trying to predict the age of a user with the given data. 
 
 Task:
 
